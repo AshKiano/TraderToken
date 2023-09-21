@@ -1,0 +1,9 @@
+name: TraderToken
+version: '1.1'
+main: com.ashkiano.tradertoken.TraderToken
+api-version: '1.16'
+author: AshKiano
+commands:
+  givetoken:
+    description: Give a player a token to summon a wandering trader.
+    usage: /<command> [player]
