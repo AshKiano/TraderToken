@@ -32,6 +32,8 @@ public class TraderToken extends JavaPlugin implements Listener {
 
         Bukkit.getPluginManager().registerEvents(this, this);
         Metrics metrics = new Metrics(this, 19515);
+
+        this.getLogger().info("Thank you for using the TraderToken plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com");
     }
 
     @Override
