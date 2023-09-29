@@ -1,5 +1,5 @@
 name: TraderToken
-version: '1.2'
+version: '1.3'
 main: com.ashkiano.tradertoken.TraderToken
 api-version: '1.16'
 author: AshKiano
