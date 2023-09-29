@@ -1,0 +1,4 @@
+commandPermission: "tradertoken.givetoken"
+itemName: "Trader Token"
+itemLore:
+  - "Token na přivolání obchodního cestujícího"
